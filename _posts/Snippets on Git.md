@@ -1,6 +1,7 @@
 ---
 layout: blog
-title: Snippets on Git and Github
+title: Blog
+subtitle: Snippets on Git and Github
 ---
 
 When starting Git and Github, I was very confused and frustrated as there are so many tutorials but you really do not know where to start. I couldnot find any tutorial sources that are comprehensive yet plainly-presented for such a newbie like me. Have to say, I also suck at reading long and complicated stuff. For me to learn, I prefer "going straight to the point", kind of condensed and visual style, like mapping or listing in form of bullet points. Therefore, I created this post, first of all, for me, to have an organized bookmark of knowledge on Git and Github; second, for any friends, who are kind and generous enough to enlighten me, to be able to do it; and finally, for any newbies like me, to have a naive yet helpful reference.
