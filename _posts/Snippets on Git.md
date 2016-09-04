@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Blog
 subtitle: Snippets on Git and Github
 ---
