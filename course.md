@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: JUST in case you give it a damn 
+title: Course
+subtitle: Note on courses 
 ---
 
-My name is Mai, from Vietnam. 
-This is my attempt to enter the exciting data world.  
+1. VSSR
+2. VEF Academy - ML101 
 
 
 
