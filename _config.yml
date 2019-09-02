@@ -3,13 +3,8 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
-<<<<<<< HEAD
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://maiing.github.io"
-=======
-# If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://username.github.io"
->>>>>>> daattali/master
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -66,6 +61,7 @@ footer-link-col: "#404040"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
 <<<<<<< HEAD
+<<<<<<< HEAD
   name: Mai Nguyen
   email: "mainguyenq41@gmail.com"
   #facebook: Nguyen Quynh Mai  # eg. daattali
@@ -83,6 +79,8 @@ footer-links-active:
   linkedin: false
   stackoverflow: false
 =======
+=======
+>>>>>>> daattali/master
   name: Some Person
 
 # Select your active Social Network Links.
@@ -115,6 +113,9 @@ share-links-active:
   facebook: true
   google: false
   linkedin: true
+<<<<<<< HEAD
+>>>>>>> daattali/master
+=======
 >>>>>>> daattali/master
 
 # How to display the link to the website in the footer
@@ -145,7 +146,12 @@ share-links-active:
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 # disqus: ""
+<<<<<<< HEAD
 # If you want to use just-comments fill with the API Key
+=======
+
+# If you want to use JustComments fill with the API Key
+>>>>>>> daattali/master
 #just-comments: "ABCD-EFGH-IJKL"
 
 # To use Facebook Comments, fill in a Facebook App ID
